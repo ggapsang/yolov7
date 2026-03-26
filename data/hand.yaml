@@ -1,0 +1,6 @@
+train: C:/train_yolo_v7/data/train/images
+val: C:/train_yolo_v7/data/valid/images
+test: C:/train_yolo_v7/data/test/images
+
+nc: 1
+names: ['hand']

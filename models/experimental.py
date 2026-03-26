@@ -1,3 +1,4 @@
+import fix_torch_load
 import numpy as np
 import random
 import torch

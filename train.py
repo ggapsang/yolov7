@@ -1,3 +1,4 @@
+import fix_torch_load
 import argparse
 import logging
 import math
